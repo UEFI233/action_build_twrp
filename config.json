@@ -2,7 +2,7 @@
   "twrp_url": "https://github.com/Exynos7880-Linux/android_device_huawei_kirin710-twrp",
   "twrp_branch": "main",
   "git_username": "uefi233",
-  "git_email": "dongquanlin593@qq.com",
+  "git_email": "dongquanlin593@gmail.com",
   "use_own_dt": false,
   "dt_url": "azwhikaru/twrp_device_xiaomi_babel",
   "dt_branch": "main",
